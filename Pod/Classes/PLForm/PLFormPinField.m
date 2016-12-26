@@ -9,7 +9,7 @@
 
 #import "PLFormPinField.h"
 
-@import PureLayout;
+#import <PureLayout.h>
 
 @implementation PLFormPinFieldElement
 

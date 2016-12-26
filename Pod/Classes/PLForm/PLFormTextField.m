@@ -11,7 +11,7 @@
 #import "PLFormTextField.h"
 #import "PLExtras-UIView.h"
 
-@import PureLayout;
+#import <PureLayout.h>
 
 @implementation PLFormTextFieldElement
 

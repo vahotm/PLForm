@@ -10,7 +10,7 @@
 #import "PLFormDateField.h"
 #import "PLExtras-UIView.h"
 
-@import PureLayout;
+#import <PureLayout.h>
 
 @implementation PLFormDateFieldElement
 

@@ -10,7 +10,7 @@
 #import "PLFloatingLabelDateField.h"
 #import "PLExtras-UIView.h"
 
-@import PureLayout;
+#import <PureLayout.h>
 
 @interface PLFloatingLabelDateField ()
 {

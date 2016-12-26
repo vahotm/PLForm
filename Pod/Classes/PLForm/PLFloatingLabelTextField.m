@@ -10,7 +10,7 @@
 #import "PLFloatingLabelTextField.h"
 #import "PLExtras-UIView.h"
 
-@import PureLayout;
+#import <PureLayout.h>
 
 @interface PLFloatingLabelTextField ()
 {
